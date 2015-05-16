@@ -1,0 +1,2 @@
+/home/geoff/Desktop/copy of BlueSerial-master1 speach/BlueSerial-master1/app/build/intermediates/classes/release
+/home/geoff/Desktop/copy of BlueSerial-master1 speach/BlueSerial-master1/app/build/intermediates/pre-dexed/release/support-v4-18.0.0-57a2ca39a22b2d1b75b09e69e8ca94231f22777e.jar
